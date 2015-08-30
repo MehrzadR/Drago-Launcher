@@ -1,6 +1,6 @@
 # Drago-Launcher
-Hi!
-This is an Advanced launcher for Dragonet MC Server!
+
+An Batch-based server manager for Dragonet Server.
 
 Features:
 
